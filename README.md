@@ -6,9 +6,7 @@ copile example 1:
 On folder with CMakelists execute at terminal:
 
 cmake .
-
 make
-
 ./r
 
 
